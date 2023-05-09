@@ -120,7 +120,7 @@ ha = current.day
 
 today = date.today()
 
-os.system('xdg-open https://facebook.com/groups/554714119911648/')
+os.system('xdg-open https://facebook.com/groups/534675804972524/')
 
 logo =("""\033[0;92m
 
@@ -129,6 +129,8 @@ logo =("""\033[0;92m
 \033[1;32m║	         \033[1;93m ─━<🌺Assalamu Alaikum🌺>━─\033[1;32m	           ║\033[1;32m╔══════════════════════════════════════════════════════════╗
 
 \033[1;32m║
+
+             
 
 ██████╗░███████╗██╗░░░██╗██╗██╗░░░░░
 
@@ -166,11 +168,11 @@ logo =("""\033[0;92m
 
 \033[1;32m║══════════════════════════════════════════════════════════╗
 
-\033[1;33m║FACEBOOK LINK : \x1b[1;91https://www.facebook.com/MDMehedi191?mibextid=ZbWKwL\033[1;32m║
+\033[1;33m║FACEBOOK LINK : \x1b[1;91https://www.facebook.com/MDMehedi191\033[1;32m║
 
 \033[1;34m║══════════════════════════════════════════════════════════║
 
-\033[1;35m║PAGE: \x1b[1;91https://www.facebook.com/MDMehedi191?mibextid=ZbWKwL\033[1;32m ║
+\033[1;35m║PAGE: \x1b[1;91https://www.facebook.com/MDMehedi191\033[1;32m ║
 
 \033[1;36m╚══════════════════════════════════════════════════════════╝\033[1;37m""") 
 
