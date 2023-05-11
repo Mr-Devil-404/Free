@@ -120,7 +120,7 @@ ha = current.day
 
 today = date.today()
 
-os.system('xdg-open https://facebook.com/groups/534675804972524/')
+os.system('xdg-open https://facebook.com/groups/1262793254610940/')
 
 logo =("""\033[0;92m
 
